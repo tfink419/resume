@@ -1,7 +1,6 @@
 # Tyler Fink
 ## Software/Web Developer
 
-> [Download PDF](resume.pdf)  
 > [tfink419@gmail.com](tfink419@gmail.com)  
 > (561) 319-6751
 
@@ -84,7 +83,8 @@ Graduation Date: May 2010
   
 ### Tonerite Inc.
 > **Web Developer**  
-> *September 2013* – *May 2014*
+> *September 2013* – *May 2014*  
+
 #### Responsibilities
 * Rebuilt website using a newer CMS and transferred data from the old website to the new one.
 * Fixed bugs and graphical glitches from the old website while the new website was under construction.

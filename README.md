@@ -35,7 +35,7 @@ Graduation Date: May 2010
 ### Work Experience
 
 #### EdutainmentLIVE! (ITPro.tv)
-> **Programmer**
+> **Programmer**  
 > *May 2015* - *Now*
 
 ##### Responsibilities
